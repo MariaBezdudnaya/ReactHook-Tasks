@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.acc55f0c.css",
-    "main.js": "/static/js/main.23f58c05.js",
-    "static/js/453.f056fdfd.chunk.js": "/static/js/453.f056fdfd.chunk.js",
-    "index.html": "/index.html",
-    "main.acc55f0c.css.map": "/static/css/main.acc55f0c.css.map",
-    "main.23f58c05.js.map": "/static/js/main.23f58c05.js.map",
-    "453.f056fdfd.chunk.js.map": "/static/js/453.f056fdfd.chunk.js.map"
+    "main.css": "/ReactHook-Tasks/static/css/main.acc55f0c.css",
+    "main.js": "/ReactHook-Tasks/static/js/main.e2108eae.js",
+    "static/js/453.f056fdfd.chunk.js": "/ReactHook-Tasks/static/js/453.f056fdfd.chunk.js",
+    "index.html": "/ReactHook-Tasks/index.html",
+    "main.acc55f0c.css.map": "/ReactHook-Tasks/static/css/main.acc55f0c.css.map",
+    "main.e2108eae.js.map": "/ReactHook-Tasks/static/js/main.e2108eae.js.map",
+    "453.f056fdfd.chunk.js.map": "/ReactHook-Tasks/static/js/453.f056fdfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acc55f0c.css",
-    "static/js/main.23f58c05.js"
+    "static/js/main.e2108eae.js"
   ]
 }
