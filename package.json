@@ -13,7 +13,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "jest",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": [
@@ -36,6 +38,7 @@
     "devDependencies": {
         "@testing-library/jest-dom": "^6.4.2",
         "@testing-library/react": "^14.2.2",
+        "gh-pages": "^6.1.1",
         "jest": "^29.7.0"
     }
 }
