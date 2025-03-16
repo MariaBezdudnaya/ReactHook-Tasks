@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 50rem;
+    width: 90vw;
     margin: auto;
 }
 
@@ -13,6 +13,12 @@
     font-size: 1rem;
     padding: .5rem;
     margin: .5rem;
+    border: none;
+    outline: none;
+}
+.input-field {
+    width: 80%;
+    margin-right: 1rem;
 }
 
 .TaskTwo button:hover, .input-field:hover {
